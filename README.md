@@ -18,5 +18,6 @@ The app has eight components:
 (7) Suggestion Area
 
 (8) Clear
-![EKF](https://raw.githubusercontent.com/Why918/Figures/main/Figure%201.png)
+
+![Figure1](https://github.com/Why918/Figures/blob/main/APP-Components.png)
 ### 
