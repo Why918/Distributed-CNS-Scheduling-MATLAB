@@ -89,7 +89,10 @@ The properties of the optimal CNS are shown.
 
 Push the button "Clear" to clear all the variables and coordinate areas.
 
+# License
+
+GNU General Public License
+
 # Author
 
-The author is Hanyu Wang.
-e-mail: plswhy@sjtu.edu.cn
+Hanyu Wang (e-mail: plswhy@sjtu.edu.cn)
