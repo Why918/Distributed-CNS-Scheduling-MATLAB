@@ -1,4 +1,5 @@
 Distributed-CNS-Scheduling-MATLAB
+==============
 
 An interactive app based on MATLAB App Designer to demonstrate distributed cooperative navigation strategy scheduling.
 
@@ -22,4 +23,5 @@ The app has eight modules:
 8. Clear
 
 ![Figure1](https://github.com/Why918/Figures/blob/main/APP-Components.png)
-### 
+
+##
