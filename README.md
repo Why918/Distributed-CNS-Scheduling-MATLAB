@@ -9,7 +9,7 @@ An interactive app based on MATLAB App Designer to demonstrate distributed coope
 2. Open the file named App_CNS.mlapp in MATLAB
 3. Run the app and interact with its components
 
-# Modules
+## Modules
 
 The app has eight modules:
 
@@ -88,3 +88,8 @@ The properties of the optimal CNS are shown.
 ## Clear
 
 Push the button "Clear" to clear all the variables and coordinate areas.
+
+# Author
+
+The author is Hanyu Wang.
+e-mail: plswhy@sjtu.edu.cn
