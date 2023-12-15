@@ -40,6 +40,6 @@ If Suggestion Area is as shown below, it indicates that geometric distributions 
 
 ![Figure4](https://github.com/Why918/Figures/blob/main/Geo-sugg.png)
 
-Geometric distributions are displayed in Diisplay Area.
+Geometric distributions are displayed in Display Area.
 
-![Figure4](https://github.com/Why918/Figures/blob/main/Geo-succ.png)
+![Figure4](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
