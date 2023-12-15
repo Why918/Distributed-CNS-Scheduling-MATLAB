@@ -68,6 +68,7 @@ The design CNSs of the selected agent is displayed in Display Area, and running 
 ![Figure11](https://github.com/Why918/Figures/blob/main/Run.png)
 
 ## Online Selection
+
 Specify the navigation performance requirement for the selected agent, then push the button "Find the optimal CNS".
 
 ![Figure12](https://github.com/Why918/Figures/blob/main/OS.png)
@@ -78,8 +79,12 @@ If Suggestion Area is as shown below, it indicates that the optimal CNS is found
 
 The optimal CNS is displayed in Display Area.
 
-![Figure13](https://github.com/Why918/Figures/blob/main/Optimal.png)
+![Figure14](https://github.com/Why918/Figures/blob/main/Optimal.png)
 
-The properties of the optimal CNS is shown.
+The properties of the optimal CNS are shown.
 
-![Figure13](https://github.com/Why918/Figures/blob/main/Property.png)
+![Figure15](https://github.com/Why918/Figures/blob/main/Property.png)
+
+## Clear
+
+Push the button "Clear" to clear all the variables and coordinate areas.
