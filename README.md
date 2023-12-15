@@ -32,4 +32,14 @@ First, set the appropriate parameters or keep the default parameters.
 
 ## Geometric Distributions Generator
 
-Specify the number of agents, and then push the button "Generate geometric distributions" to randomly generate geometric distributions of the multi-agent system.
+Specify "Number of agents", and then push the button "Generate geometric distributions" to randomly generate geometric distributions of the multi-agent system.
+
+![Figure3](https://github.com/Why918/Figures/blob/main/Geometric.png)
+
+If Suggestion Area is as shown below, it indicates that geometric distributions are successfully generated.
+
+![Figure4](https://github.com/Why918/Figures/blob/main/Geo-sugg.png)
+
+Geometric distributions are displayed in Diisplay Area.
+
+![Figure4](https://github.com/Why918/Figures/blob/main/Geo-succ.png)
