@@ -1,10 +1,15 @@
 # Distributed-CNS-Scheduling-MATLAB
+
 An interactive app based on MATLAB App Designer to demonstrate distributed cooperative navigation strategy scheduling.
+
 ## Getting Started
+
 1. Clone the repository
 2. Open the file named App_CNS.mlapp in MATLAB
 3. Run the app and interact with its components
+
 ### Modules
+
 The app has eight modules:
 
 1. Parameter Setting
