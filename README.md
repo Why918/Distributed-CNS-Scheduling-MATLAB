@@ -9,7 +9,7 @@ An interactive app based on MATLAB App Designer to demonstrate distributed coope
 2. Open the file named App_CNS.mlapp in MATLAB
 3. Run the app and interact with its components
 
-## Modules
+# Modules
 
 The app has eight modules:
 
@@ -24,4 +24,12 @@ The app has eight modules:
 
 ![Figure1](https://github.com/Why918/Figures/blob/main/APP-Components.png)
 
-##
+## Parameter Setting
+
+First, set the appropriate parameters or keep the default parameters.
+
+![Figure2](https://github.com/Why918/Figures/blob/main/Parametersetting.png)
+
+## Geometric Distributions Generator
+
+Specify the number of agents, and then push the button "Generate geometric distributions" to randomly generate geometric distributions of the multi-agent system.
