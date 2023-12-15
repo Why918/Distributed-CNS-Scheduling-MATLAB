@@ -32,7 +32,7 @@ First, set the appropriate parameters or keep the default parameters.
 
 ## Geometric Distributions Generator
 
-Specify "Number of agents", and then push the button "Generate geometric distributions" to randomly generate geometric distributions of the multi-agent system.
+Specify "Number of agents", then push the button "Generate geometric distributions" to randomly generate geometric distributions of the multi-agent system.
 
 ![Figure3](https://github.com/Why918/Figures/blob/main/Geometric.png)
 
@@ -42,4 +42,24 @@ If Suggestion Area is as shown below, it indicates that geometric distributions 
 
 Geometric distributions are displayed in Display Area.
 
-![Figure4](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+![Figure5](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+
+## Offline Design
+
+Click on one agent in Geometric distributions, enter its coordinates, then push the button "Select this agent".
+
+![Figure6](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+
+If Suggestion Area is as shown below, it indicates that selection is complete.
+
+![Figure7](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+
+The selected agent and its neighbors are displayed in Display Area.
+
+![Figure7](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+
+Push the button "Perform dynamic programming", then the design CNSs of the selected agent is displayed in Display Area, and running time is showed.
+
+
+## Online Selection
+
