@@ -56,10 +56,16 @@ If Suggestion Area is as shown below, it indicates that selection is complete.
 
 The selected agent and its neighbors are displayed in Display Area.
 
-![Figure7](https://github.com/Why918/Figures/blob/main/Selectneigh.png)
+![Figure8](https://github.com/Why918/Figures/blob/main/Selectneigh.png)
 
-Push the button "Perform dynamic programming", then the design CNSs of the selected agent is displayed in Display Area, and running time is showed.
+Push the button "Perform dynamic programming". If Suggestion Area is as shown below, it indicates that the offline design CNSs are obtained.
 
+![Figure9](https://github.com/Why918/Figures/blob/main/DP-sugg.png)
+
+The design CNSs of the selected agent is displayed in Display Area, and running time is showed.
+
+![Figure10](https://github.com/Why918/Figures/blob/main/DP.png)
+![Figure11](https://github.com/Why918/Figures/blob/main/Run.png)
 
 ## Online Selection
 
