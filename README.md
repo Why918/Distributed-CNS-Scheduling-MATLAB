@@ -48,15 +48,15 @@ Geometric distributions are displayed in Display Area.
 
 Click on one agent in Geometric distributions, enter its coordinates, then push the button "Select this agent".
 
-![Figure6](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+![Figure6](https://github.com/Why918/Figures/blob/main/Coordinate.png)
 
 If Suggestion Area is as shown below, it indicates that selection is complete.
 
-![Figure7](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+![Figure7](https://github.com/Why918/Figures/blob/main/Select-sugg.png)
 
 The selected agent and its neighbors are displayed in Display Area.
 
-![Figure7](https://github.com/Why918/Figures/blob/main/Geometric-succ.png)
+![Figure7](https://github.com/Why918/Figures/blob/main/Selectneigh.png)
 
 Push the button "Perform dynamic programming", then the design CNSs of the selected agent is displayed in Display Area, and running time is showed.
 
